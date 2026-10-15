@@ -2,7 +2,7 @@
   "name": "Mon Restaurant",
   "short_name": "Restaurant",
   "description": "Gestionnaire de caisse pour restaurant simple - Sénégal",
-  "start_url": "./gestionnaire-restaurant.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
