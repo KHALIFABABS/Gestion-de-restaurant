@@ -1,9 +1,11 @@
 /* Service Worker — Mon Restaurant v1.1 */
-const CACHE_NAME = 'restaurant-v1.1';
+const CACHE_NAME = 'restaurant-v1.3';
 const CORE_ASSETS = [
   './',
   './gestionnaire-restaurant.html',
-  './manifest.json'
+  './manifest.json',
+  './icon-192.png',
+  './icon-512.png'
 ];
 
 /* Installation : mettre en cache les fichiers essentiels */
